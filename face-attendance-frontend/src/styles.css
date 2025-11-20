@@ -1,0 +1,49 @@
+body {
+    background-color: #f4f6f9;
+    font-family: "Poppins", sans-serif;
+}
+
+.container-card {
+    background: white;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.08);
+}
+
+.table {
+    background: white;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.btn-custom {
+    border-radius: 8px;
+    padding: 8px 18px;
+}
+
+.sidebar {
+    width: 220px;
+    min-height: 100vh;
+    background: #003366;
+    color: white;
+    padding-top: 20px;
+    position: fixed;
+}
+
+.sidebar a {
+    color: white;
+    padding: 12px 20px;
+    display: block;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.sidebar a:hover {
+    background: #0055aa;
+}
+
+.navbar-custom {
+    background: white;
+    padding: 12px 25px;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+}
